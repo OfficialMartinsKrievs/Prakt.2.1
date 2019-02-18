@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PraktiskaisDarbs1</string>
+    <string name="tab_text_1">Audio</string>
+    <string name="tab_text_2">Kamera</string>
+    <string name="take_picture">Uzņemt bildi</string>
+    <string name="cannotopencamera">Nevar izmantot kameru</string>
+    <string name="image">Bilde netika atrasta</string>
+    <string name="errorDisplaying">Radās kļūda mēģinot atvērt bildi</string>
+    <string name="name_record">Ierakstīt</string>
+    <string name="name_stopRecording">Pārtraukt</string>
+    <string name="name_recordedFailName">Ierakstītā faila nosaukums</string>
+    <string name="name_cant_record">Nevar ierakstīt audio</string>
+    <string name="name_inAction">Ieraksta...</string>
+    <string name="name_playAudio">Atskaņot</string>
+    <string name="name_stopAudioPlayback">Pārtraukt Atskaņot</string>
+    <string name="name_playing">Atskaņo...</string>
+    <string name="name_record_name">Ieraksta vārds</string>
+    <string name="action_settings">Iziet</string>
+</resources>
