@@ -89,6 +89,7 @@ public class AudioFragment extends Fragment {
                 if (ContextCompat.checkSelfPermission(getActivity(), Manifest.permission.READ_EXTERNAL_STORAGE) == PackageManager.PERMISSION_GRANTED && ContextCompat.checkSelfPermission(getActivity(), Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED && ContextCompat.checkSelfPermission(getActivity(), Manifest.permission.WRITE_EXTERNAL_STORAGE) == PackageManager.PERMISSION_GRANTED) {
                     startRecording();
                     stopRecording.setEnabled(true);
+                    record.setEnabled(false);
                     playAudio.setEnabled(false);
                     stopPlaying.setEnabled(false);
                 } else {
