@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AudioFragment">
+    tools:context="lv.example.grupaNr7.praktiskais_mp_2_1.AudioFragment">
 
     <Button
         android:id="@+id/btnRecord"

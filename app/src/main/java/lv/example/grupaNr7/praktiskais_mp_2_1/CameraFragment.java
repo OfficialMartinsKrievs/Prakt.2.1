@@ -1,4 +1,4 @@
-package com.example.daili.praktiskais_mp_2_1;
+package lv.example.grupaNr7.praktiskais_mp_2_1;
 
 import android.Manifest;
 import android.app.Activity;
@@ -16,14 +16,11 @@ import android.support.v4.content.FileProvider;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.Toast;
-
-import com.google.android.gms.common.internal.Objects;
 
 import java.io.File;
 import java.text.SimpleDateFormat;

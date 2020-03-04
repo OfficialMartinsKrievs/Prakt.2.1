@@ -1,4 +1,4 @@
-package com.example.daili.praktiskais_mp_2_1;
+package lv.example.grupaNr7.praktiskais_mp_2_1;
 
 import org.junit.Test;
 

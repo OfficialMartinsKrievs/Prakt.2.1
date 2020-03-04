@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823657288070",
+    "firebase_url": "https://pirmaisprakt-6ab3c.firebaseio.com",
+    "project_id": "pirmaisprakt-6ab3c",
+    "storage_bucket": "pirmaisprakt-6ab3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823657288070:android:ddd69fc09b89667193dc07",
+        "android_client_info": {
+          "package_name": "lv.example.grupaNr7.praktiskais_mp_2_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823657288070-3glsa5gho0t18cmfi151chvjo0rtnrq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyXilUEMmEe_CBu1OGttWaUWiNJPmkQqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823657288070-3glsa5gho0t18cmfi151chvjo0rtnrq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
